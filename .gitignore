@@ -1,0 +1,2 @@
+# ignore ALL files in the .venc python directory
+.venv/
