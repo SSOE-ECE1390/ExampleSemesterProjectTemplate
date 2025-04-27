@@ -1,6 +1,9 @@
 # ExampleTeam
 Example Project Repo for VirtualWebCam
 
+![Tests](https://github.com/SSOE-ECE1390/ExampleTeam/actions/workflows/tests.yml/badge.svg)
+
+
 Brief Description:
 The goal of this project is to build a virtual webcam to allow manipulations of live-video feeds from a webcam to be used in Zoom
 
