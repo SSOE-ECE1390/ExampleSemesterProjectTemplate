@@ -10,6 +10,7 @@ The goal of this project is to build a virtual webcam to allow manipulations of 
 Team Members:
 Dr Huppert (huppert1@pitt.edu)
 The class TA (someone@pitt.edu)
+Someone else
 
 
 Proposed project specs:
