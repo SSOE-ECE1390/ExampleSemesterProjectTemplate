@@ -10,7 +10,7 @@ Platform: cygwin
 Platform: osx
 Platform: win32
 Classifier: Programming Language :: Python :: 3.12
-License-File: LICENSE
+License-File: LICENSE.md
 Requires-Dist: matplotlib>=3.0
 Requires-Dist: mediapipe>=0.10
 Requires-Dist: numpy>=1.26
