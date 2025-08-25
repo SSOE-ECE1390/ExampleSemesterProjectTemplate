@@ -16,14 +16,18 @@ Yang Du (yang.du@pitt.edu)
 
 
 
-Proposed project specs:
-* Background replacement (greenscreen)
-    Include feature to change background of video
-    Include option for static and video backgrounds
-* Auto-adjust lighting/contrast of image
-    Auto adjust the color and brightness of the video
-* Privacy mode
-    Include button to mask out faces from the video
-* Face-swap mode
-    Include button to face swap the person with a prebuilt library of famous people's faces
+## File Descriptions
+This project contains a number of additional files that are used by GitHub to provide information and do tests on code.
+
+### Markup files (*.md)
+Markup files, such as this README file are shown on the home page of GitHub
+
+[Here is a good reference for how to use markup files](https://github.com/lifeparticle/Markdown-Cheatsheet)
+
+* README.md; This file usually holds information about the purpose of the repo, the authors, etc.  
+
+* CODE_OF_CONDUCT; This file establishes a set of behavioral expectations for contributors and community members, promoting a positive and inclusive environment.
+
+* LICENSE; This file specifies the licensing terms under which your project is released, informing users about how they can use, modify, and distribute your code.
+
 
