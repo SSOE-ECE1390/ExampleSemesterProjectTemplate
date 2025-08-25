@@ -1,6 +1,9 @@
 # ExampleTeam
 Example Project Repo for VirtualWebCam
 
+<!-- This sets up to run the tests and place a badge on GitHub if it passes -->
+
+
 ![Tests](https://github.com/SSOE-ECE1390/ExampleTeam/actions/workflows/tests.yml/badge.svg)
 
 
@@ -9,8 +12,8 @@ The goal of this project is to build a virtual webcam to allow manipulations of 
 
 Team Members:
 Dr Huppert (huppert1@pitt.edu)
-The class TA (someone@pitt.edu)
-Someone else
+Yang Du (yang.du@pitt.edu)
+
 
 
 Proposed project specs:
